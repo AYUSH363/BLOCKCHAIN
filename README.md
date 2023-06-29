@@ -53,7 +53,7 @@ TO INITIATE THE FIRST HYPERLEDGER FABRIC NETWORK, WE WILL UTILIZE THE FABRIC-SAM
 # 3. INSTALL JQ
     sudo apt install jq
 
-# 4. . INSTALL NODE/JAVA
+# 4. INSTALL NODE/JAVA
     sudo apt install npm
     npm install node
 
